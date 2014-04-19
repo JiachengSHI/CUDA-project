@@ -1,0 +1,10 @@
+1. login to jarvis account:
+name: dshi6
+passwd: cs550gpudshi6
+
+2. go to GPU directory: cd GPU
+
+3. compile the program(this case it should be already compiled): make     (use a makefile to compile)
+
+4. type commend to run grep: ./grep + keyword
+	for example: ./grep wiki      (search wiki in file)
